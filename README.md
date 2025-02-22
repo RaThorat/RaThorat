@@ -1,6 +1,5 @@
 - 👋 Hi, I am a data scientist with experience in the healthcare and research sectors. 
 - 👀 I’m interested in Data science, Healthcare and Research sector, Funding, Subsidies, Project management, Dutch Higher education, Doctoral research
-- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - -
